@@ -1,0 +1,8 @@
+D:\PersonalFiles\CattenLinger\Work Files\KeyTest\KeyTest\bin\Debug\KeyTest.exe
+D:\PersonalFiles\CattenLinger\Work Files\KeyTest\KeyTest\bin\Debug\KeyTest.pdb
+D:\PersonalFiles\CattenLinger\Work Files\KeyTest\KeyTest\obj\Debug\KeyTest.Form1.resources
+D:\PersonalFiles\CattenLinger\Work Files\KeyTest\KeyTest\obj\Debug\KeyTest.Properties.Resources.resources
+D:\PersonalFiles\CattenLinger\Work Files\KeyTest\KeyTest\obj\Debug\KeyTest.csproj.GenerateResource.Cache
+D:\PersonalFiles\CattenLinger\Work Files\KeyTest\KeyTest\obj\Debug\KeyTest.exe
+D:\PersonalFiles\CattenLinger\Work Files\KeyTest\KeyTest\obj\Debug\KeyTest.pdb
+D:\PersonalFiles\CattenLinger\Work Files\KeyTest\KeyTest\obj\Debug\KeyTest.csprojResolveAssemblyReference.cache
